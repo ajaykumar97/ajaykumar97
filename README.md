@@ -15,3 +15,8 @@ I'm [Ajay](https://ajay-kumar.dev/), an experienced Software Engineer who helps 
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
+
+
+## Visitors Count 🕒
+
+![VisitorCount](https://profile-counter.glitch.me/{ajaykumar97}/count.svg)
