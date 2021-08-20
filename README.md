@@ -1,6 +1,12 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Ajay, an experienced Software Engineer who helps the people and the organisations to ship their business ideas into the Play Store and the App Store.
+- I'm Ajay, a Software Engineer who helps the people and the organisations to ship their business ideas into the Play Store and the App Store.
+- I have developed several Mobile Applications which are impacting the world and some are in-progress.
+- I am skilled in the React-Native framework and trying my hands in the Node.Js as well.
+- In my free time, I love to explore different tools & technologies, write and share the solutions I have created or found for the problem I encounter in my day to day life, listen to music and invest in improving my skills.
+- I am currently building a hobby to read books.
+- And, I am always willing to learn more.
+
 
 ![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=ajaykumar97&show_icons=true&theme=solarized-light&count_private=true)
 
@@ -19,6 +25,12 @@ I'm Ajay, an experienced Software Engineer who helps the people and the organisa
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/github%20-20232A.svg?&style=for-the-badge&logo=github&logoColor=white)
+
+## My writings ✍🏻
+
+- [Personal website](https://ajay-kumar.dev/writings)
+- [Hackernoon](https://hackernoon.com/u/ajay426)
+- [Medium](https://ajaysidhu17.medium.com)
 
 
 ## Visitors Count 🕒
