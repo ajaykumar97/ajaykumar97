@@ -7,7 +7,7 @@
   - explore different tools & technologies
   - write and share the solutions I have created or found for the problem I encounter in my day to day life
   - listen to music
-  - and invest in improving my skills.
+  - invest in improving my skills.
 - I am currently building a hobby to read books.
 - And, I am always willing to learn more.
 
